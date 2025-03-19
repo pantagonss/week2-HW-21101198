@@ -43,12 +43,7 @@ Adaptive Thresholding 및 Bilateral Filtering을 활용하여 선명한 윤곽�
 - 이미지 텍스처에 따라 다르게 적용할 수 있는 적응형 필터링 기법 도입
 - 더욱 자연스러운 색 변환을 위한 추가적인 보정 과정 추가
 
----
-
-## 실행 방법
-```bash
-python cartoonify.py
-
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/fe4ca40c-8a9b-49ab-ac46-a486f525fba8" />
+ img width="960" alt="image" src="https://github.com/user-attachments/assets/fe4ca40c-8a9b-49ab-ac46-a486f525fba8" />
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/9bfc97c8-76ed-4cf0-b5e3-78900ea29b36" />
+
